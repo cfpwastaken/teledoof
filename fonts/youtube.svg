@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 18 13">
+  <defs>
+      <path id="2-bu-youtube_svg__a" d="M0 0h17.167v12.111H0z"></path>
+  </defs>
+  <g transform="translate(.607 .108)" fill="none" fill-rule="evenodd">
+      <mask id="2-bu-youtube_svg__b" fill="#fff">
+          <use xlink:href="#2-bu-youtube_svg__a"></use>
+      </mask>
+      <path d="M6.828 8.612V3.5l4.486 2.556-4.486 2.556zm9.98-6.72A2.158 2.158 0 0015.29.361C13.952 0 8.583 0 8.583 0S3.215 0 1.876.362A2.158 2.158 0 00.36 1.892C0 3.24 0 6.055 0 6.055S0 8.87.359 10.22c.197.745.779 1.33 1.517 1.53 1.34.361 6.707.361 6.707.361s5.369 0 6.707-.361c.739-.2 1.32-.785 1.518-1.53.359-1.35.359-4.164.359-4.164s0-2.816-.359-4.165z" fill="#FFF" mask="url(#2-bu-youtube_svg__b)"></path>
+  </g>
+</svg>

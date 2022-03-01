@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 22 22">
+<defs>
+  <path id="2-bu-telekom-hilft_svg__a" d="M0 0h24v24H0z"></path>
+  <path
+    d="M20.24 0H4.87a.783.783 0 00-.76.76v11.26c0 .401.358.759.76.759h3.396v2.993H1.117v-10.5h1.877V4.111H.76a.783.783 0 00-.76.76V16.13c0 .402.357.76.76.76h7.506l4.11 4.11v-4.11h3.754c.402 0 .76-.358.76-.76v-2.234h-1.118v1.876H11.26v2.547l-2.234-2.234 3.35-3.351h7.864c.403 0 .76-.357.76-.76V.76a.783.783 0 00-.76-.76zM7.104 6.032h1.117v1.117H7.104V6.032zm4.692 1.117h-1.117V6.032h1.117v1.117zm-.268-1.698c-.045-.58-.224-1.028-.492-1.296-.268-.312-.625-.446-1.117-.491v4.245c0 .357.045.58.134.714.09.09.268.134.447.18h.357v.357H8.043v-.358H8.4c.223-.045.357-.09.447-.179.134-.134.179-.357.179-.714v-4.29c-.492 0-.85.179-1.117.492-.269.312-.403.715-.447 1.295l-.313-.044.09-2.01h4.557l.09 2.01-.358.09zM15.37 7.15h-1.117V6.032h1.117v1.117zm3.396 0h-1.117V6.032h1.117v1.117z"
+    id="2-bu-telekom-hilft_svg__c"></path>
+</defs>
+<g transform="translate(-1.405 -1.517)" fill="none" fill-rule="evenodd">
+  <mask id="2-bu-telekom-hilft_svg__b" fill="#fff">
+    <use xlink:href="#2-bu-telekom-hilft_svg__a"></use>
+  </mask>
+  <g mask="url(#2-bu-telekom-hilft_svg__b)">
+    <g transform="translate(2 2)">
+      <mask id="2-bu-telekom-hilft_svg__d" fill="#fff">
+        <use xlink:href="#2-bu-telekom-hilft_svg__c"></use>
+      </mask>
+      <use fill="#7C7C7C" fill-rule="nonzero" xlink:href="#2-bu-telekom-hilft_svg__c"></use>
+      <path fill="#FFF" fill-rule="nonzero" mask="url(#2-bu-telekom-hilft_svg__d)" d="M-2-2h24v24H-2z"></path>
+    </g>
+  </g>
+</g>
+</svg>
